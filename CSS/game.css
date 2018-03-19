@@ -1,0 +1,10 @@
+.game-block {
+  margin-top: 50px;
+  width:70%;
+  height:800px;
+  border:1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
